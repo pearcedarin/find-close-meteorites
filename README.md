@@ -6,4 +6,4 @@ first install pipenv
 then install requests package
 
 to run this type
-`python find_meteors.py`
+`python meteors/find_meteors.py`
